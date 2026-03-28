@@ -5,7 +5,7 @@ This repository contains my daily learning and practice work of Microsoft Excel.
 ## 📚 What I am Learning
 - Basic Excel Interface
 - Basic Formulas of Excel
-- Formulas and Functions (SUM, AVERAGE, IF, VLOOKUP, etc.)
+- Formulas and Functions (SUM , AVERAGE ,  IF,  VLOOKUP,  etc.)
 - Data Cleaning
 - Sorting and Filtering
 - Conditional Formatting
