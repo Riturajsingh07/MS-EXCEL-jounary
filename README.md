@@ -15,7 +15,7 @@ This repository contains my daily learning and practice work of Microsoft Excel.
 -  Data Analysis Basics
 
 ##  🎯 Goal
- To build strong Excel skills for Data Analysis and Placement preparation.
+To build strong Excel skills for Data Analysis and Placement preparation.
 
 ## 📅 Practice Strategy
  I upload my daily practice files and notes here to track my progress.
