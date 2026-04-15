@@ -2,7 +2,7 @@
 
 This repository contains my daily learning and practice work of Microsoft Excel.
 
-## 📚 What I am Learning
+##   📚 What I am Learning
 -  Basic Excel Interface
 -  Basic Formulas of Excel
 -  Basic Excel Concept
@@ -17,7 +17,7 @@ This repository contains my daily learning and practice work of Microsoft Excel.
 ##  🎯 Goal
  To build strong Excel skills for Data Analysis and Placement preparation.
 
-## 📅 Practice Strategy
+##  📅 Practice Strategy
  I upload my daily practice files and notes here to track my progress.
 
 ---
